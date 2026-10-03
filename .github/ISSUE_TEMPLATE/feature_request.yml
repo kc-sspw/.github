@@ -1,0 +1,29 @@
+name: Propozycja funkcji
+description: Zaproponuj nową funkcję lub usprawnienie
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Jaki problem chcemy rozwiązać?
+      description: Opisz potrzebę użytkownika lub procesu.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proponowane rozwiązanie
+      description: Jak według Ciebie powinno to działać?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatywy
+      description: Czy rozważano inne rozwiązania?
+  - type: textarea
+    id: extra
+    attributes:
+      label: Dodatkowy kontekst
