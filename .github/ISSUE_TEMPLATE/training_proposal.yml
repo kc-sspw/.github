@@ -1,0 +1,31 @@
+name: Propozycja szkolenia
+description: Zaproponuj temat szkolenia lub warsztatu
+title: "[Training]: "
+labels:
+  - training
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Temat
+      placeholder: np. Git i GitHub od podstaw
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Dla kogo?
+      description: Poziom uczestników i oczekiwana wiedza wstępna.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Czego uczestnicy mają się nauczyć?
+    validations:
+      required: true
+  - type: textarea
+    id: format
+    attributes:
+      label: Proponowany format
+      description: Prezentacja, warsztat, ćwiczenia, długość spotkania itp.
