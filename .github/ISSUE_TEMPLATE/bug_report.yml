@@ -1,0 +1,37 @@
+name: Zgłoszenie błędu
+description: Zgłoś problem w działającym projekcie
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dzięki za zgłoszenie. Nie umieszczaj tutaj haseł, tokenów ani danych poufnych.
+  - type: textarea
+    id: description
+    attributes:
+      label: Opis problemu
+      description: Co się dzieje i czego oczekujesz?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Kroki do odtworzenia
+      placeholder: |
+        1. Wejdź w...
+        2. Kliknij...
+        3. Zobacz błąd...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Środowisko
+      description: Przeglądarka, system, wersja aplikacji lub inne istotne informacje.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Dodatkowe informacje
+      description: Logi, screenshoty lub inne materiały. Usuń dane wrażliwe.
