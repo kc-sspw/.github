@@ -4,6 +4,17 @@ Jesteśmy Komisją Cyfryzacji Samorządu Studentów Politechniki Warszawskiej.
 
 Ta organizacja GitHub jest wspólną przestrzenią na projekty, narzędzia, automatyzacje oraz materiały szkoleniowe rozwijane przez Komisję.
 
+## Projekty Komisji — 2026/2027
+
+- **[Mój Akademik](https://github.com/kc-sspw/moj-akademik)** — rozwijany projekt dotyczący akademików *(repo prywatne)*.
+- **[Appka eventowa / wyjazdowa](https://github.com/kc-sspw/appka-eventowa)** — główny projekt aplikacji do obsługi wyjazdów i wydarzeń *(repo prywatne)*.
+- **[System wypożyczeń](https://github.com/kc-sspw/system-wypozyczen)** — obsługa wypożyczania istniejącego sprzętu *(repo prywatne)*.
+- **[Kreator ZP](https://github.com/kc-sspw/zp-app)** — generator wniosków o udzielenie zamówienia publicznego *(publiczny fork)*.
+
+Opis projektu, zakresy i zasady współpracy znajdują się w [handbooku KC](https://github.com/kc-sspw/handbook).
+
+Repozytoria eksperymentalne i materiały szkoleniowe są **zapleczem technicznym**, nie oznaczają automatycznie zatwierdzonego projektu ani gotowego rozwiązania produkcyjnego. Główne repozytorium pozostaje punktem odniesienia dla każdego utrzymywanego projektu.
+
 ## Co tu znajdziesz
 
 - **projekty** — aplikacje i narzędzia tworzone na potrzeby SSPW i społeczności studenckiej,
