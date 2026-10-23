@@ -6,12 +6,16 @@ Ta organizacja GitHub jest wspólną przestrzenią na projekty, narzędzia, auto
 
 ## Projekty Komisji — 2026/2027
 
-- **[Mój Akademik](https://github.com/kc-sspw/moj-akademik)** — rozwijany projekt dotyczący akademików *(repo prywatne)*.
-- **[Appka eventowa / wyjazdowa](https://github.com/kc-sspw/appka-eventowa)** — główny projekt aplikacji do obsługi wyjazdów i wydarzeń *(repo prywatne)*.
-- **[System wypożyczeń](https://github.com/kc-sspw/system-wypozyczen)** — obsługa wypożyczania istniejącego sprzętu *(repo prywatne)*.
+- **[Mój Akademik](https://github.com/kc-sspw/moj-akademik)** — rozwijany projekt dotyczący akademików *(kod publiczny)*.
+- **[Appka eventowa / wyjazdowa](https://github.com/kc-sspw/appka-eventowa)** — główny projekt aplikacji do obsługi wyjazdów i wydarzeń *(kod publiczny; etap definiowania PoC)*.
+- **[System wypożyczeń](https://github.com/kc-sspw/system-wypozyczen)** — obsługa wypożyczania istniejącego sprzętu *(kod publiczny)*.
 - **[Kreator ZP](https://github.com/kc-sspw/zp-app)** — generator wniosków o udzielenie zamówienia publicznego *(publiczny fork)*.
 
 Opis projektu, zakresy i zasady współpracy znajdują się w [handbooku KC](https://github.com/kc-sspw/handbook).
+
+Repozytoria projektowe Komisji są publiczne, a prawo do modyfikowania chronionych gałęzi wynika z uprawnień zespołów i reguł Pull Request. **Publiczny kod nie oznacza publicznej bazy danych ani dostępu do środowiska produkcyjnego.** [Zasady Rulesets](https://github.com/kc-sspw/handbook/blob/main/docs/public-code-and-rulesets.md).
+
+**Rozpoczęcie PoC appki eventowej:** [instrukcja dla kolejnego chatu i współtwórców](https://github.com/kc-sspw/appka-eventowa/blob/main/docs/POC_START_HERE.md).
 
 Repozytoria eksperymentalne i materiały szkoleniowe są **zapleczem technicznym**, nie oznaczają automatycznie zatwierdzonego projektu ani gotowego rozwiązania produkcyjnego. Główne repozytorium pozostaje punktem odniesienia dla każdego utrzymywanego projektu.
 
